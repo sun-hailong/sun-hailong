@@ -6,5 +6,5 @@
 - 📫 Contact me via sunhl@lamda.nju.edu.cn, welcome to collaborate and communicate!
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sun-hailong&theme=transparent&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sun-hailong&theme=transparent&count_private=true&show_icons=true" />
 </a> 
