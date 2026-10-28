@@ -11,6 +11,6 @@ During my graduate studies, I was a member of the
 - 🔭 Find more information about me on my [personal page](https://www.lamda.nju.edu.cn/sunhl/).
 - 📫 Contact me via sunhl@lamda.nju.edu.cn, welcome to collaborate and communicate!
 
-<a href="">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sun-hailong&theme=transparent&count_private=true&show_icons=true" />
+<a href="https://github.com/sun-hailong">
+  <img align="left" src="./profile/stats.svg" alt="Hai-Long Sun's GitHub stats" />
 </a> 
