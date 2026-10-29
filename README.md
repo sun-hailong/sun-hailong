@@ -1,6 +1,6 @@
 ### Hi there, I'm Hai-Long 👋
 
-- 😊 I am currently with the <a href="https://www.ant-ling.com/zh/" target="_blank">Bailing Team</a> at Ant Group.
+- 😊 I am currently with the <a href="https://www.ant-ling.com/zh/" target="_blank">Ant Ling Team</a> at Ant Group (**Ant Star - Plan A Program**).
 Prior to joining Ant Group, I received my M.Sc. degree from the <a href="https://ai.nju.edu.cn/" target="_blank">School of Artificial
 Intelligence</a>, <a href="https://www.nju.edu.cn/main.htm" target="_blank">Nanjing University</a>, in 2026,
 under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yehj" target="_blank">Han-Jia Ye</a>.
